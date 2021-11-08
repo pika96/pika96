@@ -41,3 +41,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring Boot-green?style=flat-square&logo=Spring Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=white"/>
+
+📚 __Education__  
+우아한테크코스 `2021.02 - 2021.11`  
+아주대학교 `2015.03 - 2021.02`
