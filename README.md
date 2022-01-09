@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pika96&show_icons=true&theme=radical)
  
 [![Tech Blog Badge](http://img.shields.io/badge/-TIL-black?style=flat-square&logo=github&link=https://github.com/pika96/TIL)](https://github.com/pika96/TIL)
-[![Notion Badge](https://drive.google.com/file/d/1ttZ-1UKCaOfyXcGTMm8n8z_etmIA1Y2j/view?usp=sharing)
-[![Notion Badge](https://drive.google.com/file/d/1QJCRjQTDGlNdBXrqP68iPOg1x37FpSCg/view?usp=sharing)
+[![Notion Badge](http://img.shields.io/badge/-Resume-blue?style=flat-square&logo=notion&link=https://drive.google.com/file/d/1ttZ-1UKCaOfyXcGTMm8n8z_etmIA1Y2j/view?usp=sharing)](https://drive.google.com/file/d/1ttZ-1UKCaOfyXcGTMm8n8z_etmIA1Y2j/view?usp=sharing)
+[![Notion Badge](http://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=notion&link=https://drive.google.com/file/d/1QJCRjQTDGlNdBXrqP68iPOg1x37FpSCg/view?usp=sharing)](https://drive.google.com/file/d/1QJCRjQTDGlNdBXrqP68iPOg1x37FpSCg/view?usp=sharing)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yjwdbawldn83@gmail.com)](mailto:yjwdbawldn83@gmail.com)
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjwdbswldn)](https://solved.ac/yjwdbswldn/) -->
