@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 </div>
 
 💁‍♂️ __About me__  
+- 프로그래밍을 통해 __일상 속의 작은 불편함__ 을 해소하기 위해 노력합니다.
 - 기록의 중요성을 알기에, 학습한 내용을 꾸준하게 [**TIL**](https://github.com/pika96/TIL)에 정리합니다.
-- 꾸준함도 중요하지만, 방향 또한 중요합니다. [**꾸준하고 올바른**](https://github.com/pika96/woowa-writing-3/blob/pika96/%EB%A0%88%EB%B2%A8%204%20%EA%B8%80%EC%93%B0%EA%B8%B0.md) 성장을 추구합니다.
 - 유지 보수하기 좋은 유연한 코드에 관심이 많습니다.
 - 문서화를 통해 지식과 경험을 공유하며 함께 성장하는 것을 즐깁니다.
 
